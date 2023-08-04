@@ -12,6 +12,8 @@ public class Sample {
 		System.out.println("Hello from AT");
 
 		System.out.println("Hello");
+		
+		System.out.println("Hi from Branch 1");
 	}
 
 }
