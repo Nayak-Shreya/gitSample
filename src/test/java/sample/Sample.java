@@ -10,6 +10,8 @@ public class Sample {
 		System.out.println("This is another commit");
 		
 		System.out.println("Hello from AT");
+
+		System.out.println("Hello");
 	}
 
 }
